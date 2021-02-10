@@ -1,2 +1,2 @@
 # Java-Hackerrank-_Competitive-Programming-
-Java codes the problem solving section : Hackerrank 
+Java codes of problem solving section : Hackerrank 
